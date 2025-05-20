@@ -2,7 +2,7 @@
 {
     "name": "Factura automática en Punto de Venta",
     "summary": "Permite establecer las órdenes de POS para facturarse automáticamente por defecto",
-    "version": "18.0",
+    "version": "17.0",
     "category": "Point of Sale",
     "website": "https://www.swift-solutions.co",
     "author": "Swift Solutions",
