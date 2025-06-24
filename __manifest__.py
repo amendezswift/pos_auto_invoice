@@ -14,8 +14,19 @@
         "views/res_config_settings_view.xml",
     ],
     "assets": {
+      
+        "point_of_sale._assets_pos": [
+            "pos_auto_invoice/static/src/js/models.js",
+            "pos_auto_invoice/static/src/js/receipt_invoice.js",
+            "pos_auto_invoice/static/src/js/test.js",
+            "pos_auto_invoice/static/src/xml/receipt_footer.xml",
+            
+        ],
         "point_of_sale.assets_prod": [
             "pos_auto_invoice/static/src/js/models.js",
+            "pos_auto_invoice/static/src/js/receipt_invoice.js",
+            "pos_auto_invoice/static/src/js/test.js",
+            "pos_auto_invoice/static/src/xml/receipt_footer.xml",
         ],
     },
     "installable": True,
